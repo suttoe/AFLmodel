@@ -90,10 +90,16 @@ Round Number,Home Team,Away Team,Predicted Winner,Win Prob,Margin
 10,West Coast Eagles,St Kilda,St Kilda,60.14,26
 11,Geelong Cats,Western Bulldogs,Geelong Cats,58.04,23
 11,Essendon,Richmond,Essendon,76.78,42
-11,Carlton,GWS Giants,Carlton,70.0,11
+11,Carlton,GWS Giants,Carlton,70,11
 11,Hawthorn,Brisbane Lions,Hawthorn,61.99,25
 11,North Melbourne,Collingwood,North Melbourne,65.38,29
 11,Fremantle,Port Adelaide,Fremantle,67.67,25
 11,Adelaide Crows,West Coast Eagles,West Coast Eagles,66.87,30
 11,Melbourne,Sydney Swans,Sydney Swans,51.99,15
-11,St Kilda,Gold Coast Suns,St Kilda,54.57,13
+12,Brisbane Lions,Essendon,Brisbane Lions,54.8,25
+12,Collingwood,Hawthorn,Hawthorn,51.63,5
+12,Gold Coast Suns,Fremantle,Gold Coast Suns,57.06,19
+12,GWS Giants,Richmond,GWS Giants,80.51,31
+12,Sydney Swans,Adelaide Crows,Adelaide Crows,65.04,30
+12,Melbourne,St Kilda,Melbourne,75.08,31
+12,West Coast Eagles,Geelong Cats,Geelong Cats,70.78,50
