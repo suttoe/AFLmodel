@@ -1,0 +1,99 @@
+Round Number,Home Team,Away Team,Predicted Winner,Win Prob
+0,Sydney Swans,Hawthorn,Hawthorn,59.73
+0,GWS Giants,Collingwood,GWS Giants,56.15
+1,Richmond,Carlton,Carlton,61.94
+1,Hawthorn,Essendon,Hawthorn,70.0
+1,Geelong Cats,Fremantle,Geelong Cats,80.21
+1,Sydney Swans,Brisbane Lions,Sydney Swans,54.67
+1,Western Bulldogs,North Melbourne,Western Bulldogs,68.65
+1,Collingwood,Port Adelaide,Collingwood,62.57
+1,Adelaide Crows,St Kilda,Adelaide Crows,69.8
+1,Melbourne,GWS Giants,Melbourne,54.14
+1,West Coast Eagles,Gold Coast Suns,West Coast Eagles,52.14
+2,Carlton,Hawthorn,Hawthorn,68.24
+2,Western Bulldogs,Collingwood,Collingwood,63.83
+2,Essendon,Adelaide Crows,Essendon,51.01
+2,Port Adelaide,Richmond,Port Adelaide,57.98
+2,St Kilda,Geelong Cats,Geelong Cats,63.6
+2,Brisbane Lions,West Coast Eagles,Brisbane Lions,87.73
+2,North Melbourne,Melbourne,North Melbourne,52.63
+2,Fremantle,Sydney Swans,Sydney Swans,55.05
+3,Essendon,Port Adelaide,Port Adelaide,73.39
+3,Carlton,Western Bulldogs,Western Bulldogs,51.9
+3,Melbourne,Gold Coast Suns,Gold Coast Suns,56.4
+3,St Kilda,Richmond,St Kilda,77.55
+3,Hawthorn,GWS Giants,Hawthorn,76.54
+3,Brisbane Lions,Geelong Cats,Brisbane Lions,60.78
+3,Adelaide Crows,North Melbourne,Adelaide Crows,69.47
+3,West Coast Eagles,Fremantle,Fremantle,53.23
+4,Collingwood,Carlton,Collingwood,60.47
+4,Geelong Cats,Melbourne,Geelong Cats,90.05
+4,Gold Coast Suns,Adelaide Crows,Gold Coast Suns,60.29
+4,Richmond,Brisbane Lions,Brisbane Lions,83.67
+4,North Melbourne,Sydney Swans,Sydney Swans,51.73
+4,GWS Giants,West Coast Eagles,GWS Giants,81.77
+4,Port Adelaide,St Kilda,Port Adelaide,62.98
+4,Fremantle,Western Bulldogs,Fremantle,56.11
+5,Adelaide Crows,Geelong Cats,Geelong Cats,63.52
+5,Collingwood,Sydney Swans,Collingwood,56.23
+5,North Melbourne,Gold Coast Suns,Gold Coast Suns,62.85
+5,Carlton,West Coast Eagles,Carlton,70.13
+5,Western Bulldogs,Brisbane Lions,Brisbane Lions,65.43
+5,Melbourne,Essendon,Essendon,55.2
+5,Richmond,Fremantle,Fremantle,56.36
+5,St Kilda,GWS Giants,GWS Giants,64.71
+5,Port Adelaide,Hawthorn,Hawthorn,65.12
+6,Brisbane Lions,Collingwood,Brisbane Lions,61.33
+6,North Melbourne,Carlton,Carlton,59.3
+6,West Coast Eagles,Essendon,West Coast Eagles,57.0
+6,Melbourne,Fremantle,Fremantle,74.06
+6,Adelaide Crows,GWS Giants,Adelaide Crows,69.67
+6,Richmond,Gold Coast Suns,Gold Coast Suns,75.07
+6,Sydney Swans,Port Adelaide,Sydney Swans,71.93
+6,Western Bulldogs,St Kilda,Western Bulldogs,60.75
+6,Geelong Cats,Hawthorn,Geelong Cats,64.09
+7,Melbourne,Richmond,Melbourne,69.8
+7,Collingwood,Essendon,Collingwood,61.22
+7,Fremantle,Adelaide Crows,Adelaide Crows,57.1
+7,St Kilda,Brisbane Lions,Brisbane Lions,58.95
+7,Port Adelaide,North Melbourne,Port Adelaide,74.33
+7,GWS Giants,Western Bulldogs,GWS Giants,54.23
+7,Gold Coast Suns,Sydney Swans,Gold Coast Suns,53.29
+7,Carlton,Geelong Cats,Carlton,50.84
+7,Hawthorn,West Coast Eagles,Hawthorn,90.47
+8,Essendon,North Melbourne,Essendon,81.0
+8,St Kilda,Fremantle,St Kilda,55.5
+8,Western Bulldogs,Port Adelaide,Western Bulldogs,52.49
+8,Adelaide Crows,Carlton,Adelaide Crows,52.3
+8,Collingwood,Geelong Cats,Collingwood,73.6
+8,West Coast Eagles,Melbourne,Melbourne,60.49
+8,Sydney Swans,GWS Giants,Sydney Swans,54.01
+8,Hawthorn,Richmond,Hawthorn,76.07
+8,Brisbane Lions,Gold Coast Suns,Brisbane Lions,62.34
+9,Fremantle,Collingwood,Collingwood,52.48
+9,St Kilda,Carlton,Carlton,55.32
+9,Melbourne,Hawthorn,Hawthorn,60.42
+9,Essendon,Sydney Swans,Essendon,61.26
+9,Gold Coast Suns,Western Bulldogs,Western Bulldogs,63.08
+9,Port Adelaide,Adelaide Crows,Adelaide Crows,50.87
+9,Richmond,West Coast Eagles,Richmond,56.2
+9,Geelong Cats,GWS Giants,Geelong Cats,68.5
+9,North Melbourne,Brisbane Lions,Brisbane Lions,81.83
+10,Gold Coast Suns,Hawthorn,Gold Coast Suns,52.23
+10,Sydney Swans,Carlton,Sydney Swans,50.07
+10,Collingwood,Adelaide Crows,Collingwood,68.43
+10,Port Adelaide,Geelong Cats,Port Adelaide,57.72
+10,GWS Giants,Fremantle,GWS Giants,74.01
+10,Western Bulldogs,Essendon,Western Bulldogs,57.07
+10,Richmond,North Melbourne,North Melbourne,51.17
+10,Brisbane Lions,Melbourne,Brisbane Lions,83.85
+10,West Coast Eagles,St Kilda,St Kilda,63.95
+11,Geelong Cats,Western Bulldogs,Geelong Cats,55.66
+11,Essendon,Richmond,Essendon,59.41
+11,Carlton,GWS Giants,Carlton,62.55
+11,Hawthorn,Brisbane Lions,Hawthorn,60.11
+11,North Melbourne,Collingwood,Collingwood,68.86
+11,Fremantle,Port Adelaide,Fremantle,76.64
+11,Adelaide Crows,West Coast Eagles,Adelaide Crows,80.35
+11,Melbourne,Sydney Swans,Melbourne,77.67
+11,St Kilda,Gold Coast Suns,St Kilda,62.15
