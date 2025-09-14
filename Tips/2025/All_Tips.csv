@@ -164,7 +164,7 @@ Round Number,Home Team,Away Team,Predicted Winner,Win Prob,Margin
 20,Essendon,Western Bulldogs,Western Bulldogs,52.47,26
 20,GWS Giants,Sydney Swans,GWS Giants,69.91,21
 20,Gold Coast Suns,Brisbane Lions,Gold Coast Suns,53.67,21
-20,Fremantle,West Coast Eagles,Fremantle,93.0,56
+20,Fremantle,West Coast Eagles,Fremantle,93,56
 20,North Melbourne,Geelong Cats,Geelong Cats,70.46,50
 20,Adelaide Crows,Port Adelaide,Adelaide Crows,70.91,25
 20,Richmond,Collingwood,Collingwood,66.72,31
@@ -205,20 +205,10 @@ Round Number,Home Team,Away Team,Predicted Winner,Win Prob,Margin
 24,GWS Giants,St Kilda,GWS Giants,61.43,25
 24,Western Bulldogs,Fremantle,Western Bulldogs,62.74,62
 24,Brisbane Lions,Hawthorn,Brisbane Lions,51.23,21
-24,Gold Coast Suns,Essendon,Gold Coast Suns,76.0,15
+24,Gold Coast Suns,Essendon,Gold Coast Suns,76,15
 25,Adelaide Crows,Collingwood,Adelaide Crows,68.44,56
 25,Geelong Cats,Brisbane Lions,Geelong Cats,59.46,72
 25,GWS Giants,Hawthorn,GWS Giants,65.09,25
 25,Fremantle,Gold Coast Suns,Fremantle,56.42,34
-25,Fremantle,Gold Coast Suns,Fremantle,57.82,34
-25,Fremantle,Gold Coast Suns,Gold Coast Suns,57.97,34
-25,Fremantle,Gold Coast Suns,Gold Coast Suns,52.35,34
-25,Adelaide Crows,Collingwood,Adelaide Crows,68.44,56
-25,Geelong Cats,Brisbane Lions,Geelong Cats,59.46,72
-25,GWS Giants,Hawthorn,GWS Giants,65.09,25
-25,Fremantle,Gold Coast Suns,Fremantle,56.41,34
-25,Fremantle,Gold Coast Suns,Gold Coast Suns,59.3,34
-25,Fremantle,Gold Coast Suns,Gold Coast Suns,51.02,34
-25,Fremantle,Gold Coast Suns,Fremantle,57.14,34
 26,Adelaide Crows,Hawthorn,Adelaide Crows,58.31,21
 26,Brisbane Lions,Gold Coast Suns,Brisbane Lions,58.44,21
